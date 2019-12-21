@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: d1c35083a89c97247ad3f0f1682c1400
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature.001
+    100004: Axis 3
+    100006: Axis 3.001
+    100008: Axis 4
+    100010: Axis 4.001
+    100012: Axis 5
+    100014: Axis 6.001
+    100016: Bone
+    100018: Bone 1
+    100020: Bone 2
+    100022: Bone.001
+    100024: Bone.001_end
+    100026: Bone.002
+    100028: Bone.002_end
+    100030: Bone.003
+    100032: Bone.003_end
+    100034: Bone.004
+    100036: Bone.004_end
+    100038: Bone.005
+    100040: Bone.005_end
+    100042: Bone.006
+    100044: Bone.006_end
+    100046: Bone_end
+    100048: Bone_end 1
+    100050: Bone_end 2
+    100052: Button
+    100054: Cube
+    100056: Cube.001
+    100058: Ground
+    100060: Ground.001
+    100062: ORG-Bone
+    100064: ORG-Bone.001
+    100066: ORG-Bone.001_end
+    100068: ORG-Bone.002
+    100070: ORG-Bone.002_end
+    100072: ORG-Bone.003
+    100074: ORG-Bone.003_end
+    100076: ORG-Bone.004
+    100078: ORG-Bone.004_end
+    100080: ORG-Bone.005
+    100082: ORG-Bone.005_end
+    100084: ORG-Bone.006
+    100086: ORG-Bone.006_end
+    100088: ORG-Bone_end
+    100090: rig
+    100092: //RootNode
+    100094: root
+    100096: Sphere
+    100098: WGT-rig_root
+    100100: WGTS_rig
+    100102: Bone.001_end_end
+    100104: Bone.002_end_end
+    100106: Bone.003_end_end
+    100108: Bone.004_end_end
+    100110: Bone.005_end_end
+    100112: Bone.006_end_end
+    100114: Bone_end_end
+    100116: Bone_end_end 1
+    100118: Bone_end_end 2
+    100120: Camera
+    100122: Cube.002
+    100124: Lamp
+    100126: ORG-Bone.001_end_end
+    100128: ORG-Bone.002_end_end
+    100130: ORG-Bone.003_end_end
+    100132: ORG-Bone.004_end_end
+    100134: ORG-Bone.005_end_end
+    100136: ORG-Bone.006_end_end
+    100138: ORG-Bone_end_end
+    400000: Armature
+    400002: Armature.001
+    400004: Axis 3
+    400006: Axis 3.001
+    400008: Axis 4
+    400010: Axis 4.001
+    400012: Axis 5
+    400014: Axis 6.001
+    400016: Bone
+    400018: Bone 1
+    400020: Bone 2
+    400022: Bone.001
+    400024: Bone.001_end
+    400026: Bone.002
+    400028: Bone.002_end
+    400030: Bone.003
+    400032: Bone.003_end
+    400034: Bone.004
+    400036: Bone.004_end
+    400038: Bone.005
+    400040: Bone.005_end
+    400042: Bone.006
+    400044: Bone.006_end
+    400046: Bone_end
+    400048: Bone_end 1
+    400050: Bone_end 2
+    400052: Button
+    400054: Cube
+    400056: Cube.001
+    400058: Ground
+    400060: Ground.001
+    400062: ORG-Bone
+    400064: ORG-Bone.001
+    400066: ORG-Bone.001_end
+    400068: ORG-Bone.002
+    400070: ORG-Bone.002_end
+    400072: ORG-Bone.003
+    400074: ORG-Bone.003_end
+    400076: ORG-Bone.004
+    400078: ORG-Bone.004_end
+    400080: ORG-Bone.005
+    400082: ORG-Bone.005_end
+    400084: ORG-Bone.006
+    400086: ORG-Bone.006_end
+    400088: ORG-Bone_end
+    400090: rig
+    400092: //RootNode
+    400094: root
+    400096: Sphere
+    400098: WGT-rig_root
+    400100: WGTS_rig
+    400102: Bone.001_end_end
+    400104: Bone.002_end_end
+    400106: Bone.003_end_end
+    400108: Bone.004_end_end
+    400110: Bone.005_end_end
+    400112: Bone.006_end_end
+    400114: Bone_end_end
+    400116: Bone_end_end 1
+    400118: Bone_end_end 2
+    400120: Camera
+    400122: Cube.002
+    400124: Lamp
+    400126: ORG-Bone.001_end_end
+    400128: ORG-Bone.002_end_end
+    400130: ORG-Bone.003_end_end
+    400132: ORG-Bone.004_end_end
+    400134: ORG-Bone.005_end_end
+    400136: ORG-Bone.006_end_end
+    400138: ORG-Bone_end_end
+    2000000: Camera
+    2300000: Axis 3
+    2300002: Axis 3.001
+    2300004: Axis 4
+    2300006: Axis 4.001
+    2300008: Axis 5
+    2300010: Axis 6.001
+    2300012: Cube
+    2300014: Cube.001
+    2300016: Ground
+    2300018: Ground.001
+    2300020: Sphere
+    2300022: WGT-rig_root
+    2300024: WGTS_rig
+    2300026: Cube.002
+    3300000: Axis 3
+    3300002: Axis 3.001
+    3300004: Axis 4
+    3300006: Axis 4.001
+    3300008: Axis 5
+    3300010: Axis 6.001
+    3300012: Cube
+    3300014: Cube.001
+    3300016: Ground
+    3300018: Ground.001
+    3300020: Sphere
+    3300022: WGT-rig_root
+    3300024: WGTS_rig
+    3300026: Cube.002
+    4300000: Ground.001
+    4300002: Axis 4.001
+    4300004: Axis 3.001
+    4300006: WGTS_rig
+    4300008: WGT-rig_root
+    4300010: Sphere
+    4300012: Cube.001
+    4300014: Cube
+    4300016: Axis 3
+    4300018: Axis 4
+    4300020: Axis 5
+    4300022: Axis 6.001
+    4300024: Ground
+    4300026: Cube.002
+    9500000: //RootNode
+    10800000: Lamp
+    2186277476908879412: ImportLogs
+    2186277476908879414: ImportLogs
+    2186277476908879416: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 7d6825815ea889142b2b3e2e0a3e44d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic
+    second: {fileID: 2100000, guid: 8c7b43a6f36aff04da77a9d822ff6eb9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 1
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: rig
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
